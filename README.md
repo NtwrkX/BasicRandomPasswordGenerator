@@ -1,7 +1,7 @@
 # Basic Random Password Generator
 **Generates a password of the desired length.**
 
-####Example
+#### Example
 
 ![imgPasswrd](/passwordGif.gif)
 
