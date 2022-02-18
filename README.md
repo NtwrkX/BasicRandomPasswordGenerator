@@ -5,9 +5,7 @@
 
 ![imgPasswrd](/passwordGif.gif)
 
-### Usage:
-**1- CLI**
+### Usage (CLI):
 ```
 python setup.py
 ```
-**2- You can use exe file**
